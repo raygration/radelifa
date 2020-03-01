@@ -1,1 +1,3 @@
 # radelifa
+
+permalink: /index.html
